@@ -56,7 +56,7 @@ Sistema académico con buenas prácticas en DDL, documentación estructurada y r
 
 `#SQLServer` `#ERD` `#Documentación` `#ModeladoDeDatos`
 
-### 💼 [Sales System](https://github.com/teofilocorrea/sistema_ventas)
+### 💼 [Sales System]([https://github.com/teofilocorrea/sistema_ventas](https://github.com/teofilocorrea/Sistema_de_Ventas)
 Proyecto educativo enfocado en seguridad de datos, enmascaramiento dinámico y control mediante claves foráneas.
 
 `#Seguridad` `#DataMasking` `#PortafolioGitHub`
