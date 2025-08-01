@@ -92,7 +92,7 @@ teo.evolucionar()
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teofilocorrea@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teofilocorrea)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/te%C3%B3filo-correa-rojas/)
 [![Repositorios](https://img.shields.io/badge/Ver_Repositorios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teofilocorrea?tab=repositories)
 
 </div>
