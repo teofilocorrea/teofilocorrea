@@ -2,7 +2,7 @@
 
 # Teófilo Correa | teofilocorrea
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teofilocorrea/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/teofilocorrea/](https://www.linkedin.com/in/te%C3%B3filo-correa-rojas/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teofilocorrea@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=teofilocorrea&style=for-the-badge&color=blueviolet)
 
