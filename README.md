@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teofilocorrea@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=teofilocorrea&style=for-the-badge&color=blueviolet)
 
-**`Diseñador UX/UI | Data Engineer en formación | Apasionado del SQL y la documentación técnica`**
+**`Diseñador UX/UI | Data Engineer | Apasionado del SQL y la documentación técnica`**
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ```sql
 CREATE TABLE Teofilo_Correa (
-    Profesion NVARCHAR(100) NOT NULL DEFAULT 'Diseñador UX/UI | Data Engineer en formación',
+    Profesion NVARCHAR(100) NOT NULL DEFAULT 'Diseñador UX/UI | Data Engineer',
     Enfoque NVARCHAR(200) NOT NULL DEFAULT 'Estructurar y optimizar ecosistemas de datos con enfoque centrado en el usuario',
     Pasion NVARCHAR(200) NOT NULL DEFAULT 'Transformar datos en conocimiento útil, documentado y escalable',
     Metodo NVARCHAR(150) NOT NULL DEFAULT 'Diseño + Datos + Documentación + Disciplina'
@@ -71,7 +71,7 @@ Proyecto educativo enfocado en seguridad de datos, enmascaramiento dinámico y c
 class Profesional:
     def __init__(self):
         self.nombre = "Teófilo Correa"
-        self.roles = ["Diseñador UX/UI", "Futuro Data Engineer"]
+        self.roles = ["Diseñador UX/UI", "Data Engineer"]
         self.objetivos = ["Diseñar con empatía", "Estructurar datos con propósito"]
         self.proyectos = ["Academic System", "Sales System"]
 
