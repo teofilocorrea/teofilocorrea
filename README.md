@@ -23,7 +23,9 @@ CREATE TABLE Teofilo_Correa (
 );
 ```
 
-Soy un profesional multidisciplinario con más de 8 años de experiencia en diseño UX/UI y más de un año incursionando en ingeniería de datos. Me apasiona construir soluciones digitales integrales, desde la interfaz hasta la estructura de base de datos. Actualmente lidero proyectos con SQL Server y PostgreSQL, priorizando la documentación técnica, normalización y seguridad de datos.
+Soy Teófilo Correa (Teo), Ingeniero de Datos con enfoque en SQL Server y diseñador de productos digitales con más de 5 años de experiencia en UX/UI. Mi perfil combina la precisión técnica del modelado y la optimización de datos con la visión estratégica del diseño centrado en el usuario.
+
+Actualmente me especializo en estructurar, documentar y optimizar bases de datos en SQL Server, aplicando buenas prácticas en modelado relacional, normalización, restricciones de integridad, metadata y control de calidad. A su vez, diseño productos digitales que equilibran la experiencia visual con una arquitectura de datos sólida y escalable.
 
 ---
 
