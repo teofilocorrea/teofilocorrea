@@ -71,9 +71,9 @@ Proyecto educativo enfocado en seguridad de datos, enmascaramiento dinámico y c
 class Profesional:
     def __init__(self):
         self.nombre = "Teófilo Correa"
-        self.roles = ["Diseñador UX/UI", "Data Engineer"]
-        self.objetivos = ["Diseñar con empatía", "Estructurar datos con propósito"]
-        self.proyectos = ["Academic System", "Sales System"]
+        self.roles = "Diseñador UX/UI", "Data Engineer"
+        self.objetivos = "Diseñar con empatía", "Estructurar datos con propósito"
+        self.proyectos = "Academic System", "Sales System"
 
     def evolucionar(self):
         return "🚀 Aprendiendo cada día para unir diseño y datos"
